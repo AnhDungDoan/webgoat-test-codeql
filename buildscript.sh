@@ -1,2 +1,2 @@
 mvn package -Dmaven.test.skip
-mvn clean install 
+mvn clean install -DskipTests
