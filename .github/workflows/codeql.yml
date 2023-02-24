@@ -70,7 +70,7 @@ jobs:
       with:
         java-version: 17
     - run: |  
-        echo "Run, Build Application using script hi3"
+        echo "Run, Build Application using script hi4"
         ./buildscript.sh
 
     - name: Perform CodeQL Analysis
